@@ -1,2 +1,2 @@
 # C3_Project_SamuelJohnJ
-Restaurant Finder Project
+The Master Branch Contains the Restaurant Finder Project Code
